@@ -1,0 +1,18 @@
+.user__card {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
+  margin-top: 40px;
+  border: black;
+}
+
+.card__content {
+  display: grid;
+  grid-template-columns: 600px;
+  justify-content: center;
+}
+
+.span {
+  font-size: 16px;
+  font-weight: 400;
+}

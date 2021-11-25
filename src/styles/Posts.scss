@@ -1,0 +1,18 @@
+.posts__heading-wrapper {
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.posts__container {
+  display: grid;
+  grid-template-columns: 700px;
+  gap: 20px;
+  justify-content: center;
+  justify-items: start;
+}
+
+.link-posts {
+  font-weight: 400;
+  font-size: 20px;
+}

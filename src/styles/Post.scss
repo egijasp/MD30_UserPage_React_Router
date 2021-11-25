@@ -1,0 +1,13 @@
+.heading1-post {
+  padding-top: 40px;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.post__text {
+  display: grid;
+  grid-template-columns: 500px;
+  justify-content: center;
+  margin-top: 40px;
+  gap: 30px;
+}

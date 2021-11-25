@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin:wght@400;500;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: 'M PLUS Code Latin', sans-serif;
+  font-size: 18px;
+}
+
+.link {
+  text-decoration: none;
+  color: #282c34;
+  font-weight: 400;
+}
+
+.heading1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.heading3 {
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.heading4 {
+  font-size: 18px;
+  font-weight: 500;
+}
