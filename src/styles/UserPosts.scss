@@ -1,0 +1,19 @@
+.user__posts-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  padding: 30px;
+  justify-items: center;
+}
+
+.user__posts {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 700px;
+  gap: 40px;
+}
+
+.heading3-posts {
+  padding-bottom: 20px;
+  text-transform: capitalize;
+}

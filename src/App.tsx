@@ -19,7 +19,7 @@ const App = () => (
     <Routes>
       <Route path="/" element={<Users />} />
       <Route path="/users/:id" element={<User />} />
-      <Route path="/users/:id/userPosts" element={<UserPosts />} />
+      <Route path="/users/:id/user-posts" element={<UserPosts />} />
       <Route path="/posts" element={<Posts />} />
       <Route path="/post/:id" element={<Post />} />
       <Route path="/404" element={<PageNotFound />} />

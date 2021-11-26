@@ -96,7 +96,7 @@ const User = () => {
         </div>
       </div>
       <button onClick={() => {
-        navigate('userBlogs');
+        navigate('user-posts');
       }}
       >
         See Blog Posts
